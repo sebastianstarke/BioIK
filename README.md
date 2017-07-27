@@ -1,7 +1,7 @@
 BioIK Asset for Unity3D
 ======================================================
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/title.png">
-<div style="background-color:#303030;">The source code for this project in Unity3D (C#) can be obtained via: https://www.assetstore.unity3d.com/en/#!/content/67819</div>
+The source code for this project in Unity3D (C#) can be obtained via: https://www.assetstore.unity3d.com/en/#!/content/67819
 
 Description
 ------------
