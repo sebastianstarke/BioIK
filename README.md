@@ -8,6 +8,6 @@ Description
 This project was started as part of my M.Sc. thesis, and later continued as a research associate at the University of Hamburg.
 The algorithm solves the inverse kinematics problem on generic kinematic geometries by means of memetic evolutionary computation - combining genetic algorithms, particle swarm optimisation and the L-BFGS-B algorithm for nonlinear gradient-based optimisation. For information, see the graph below.
 
-<center><img src ="https://github.com/sebastianstarke/BioIK/blob/master/cycle.png" width="50%"></center>
+<img src ="https://github.com/sebastianstarke/BioIK/blob/master/cycle.png" width="75%">
 
 The research was published at several scientific conferences, including IEEE ROBIO 2016, IEEE CEC 2017 and IEEE IROS 2017.
