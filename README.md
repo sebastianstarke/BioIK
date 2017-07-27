@@ -15,9 +15,8 @@ The following pictures demonstrate the performance and scalability of the algori
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/2.png" width="33%">
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/3.png" width="33%">
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/4.png" width="33%">
-<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/5.png" width="50%">
-<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/6.png" width="50%">
-<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/7.png" width="50%">
+<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/5.png" width="40%">
+<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/7.png" width="40%">
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/8.png" width="100%">
 
 The research was published at several scientific conferences, including IEEE ROBIO 2016, IEEE CEC 2017 and IEEE IROS 2017, so I would be glad if you reference it in case of using it for academic work.
