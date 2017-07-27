@@ -22,6 +22,9 @@ The following pictures demonstrate the performance of the algorithm in applicati
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/7.png" width="100%">
 <img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/8.png" width="100%">
 
+The table below shows the resulting performance values compared to related methods for numerical IK.
+<img src ="https://github.com/sebastianstarke/BioIK/blob/master/images/eval.png" width="100%">
+
 The research was published at several scientific conferences, including IEEE ROBIO 2016, IEEE CEC 2017 and IEEE IROS 2017, so I would be glad if you reference it in case of using it for academic work.
 
 For any questions you might have or bugs you find, feel free to contact me! I am happy to help and to improve the software.
