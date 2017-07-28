@@ -4,7 +4,7 @@ BioIK Asset for Unity3D
 
 Download
 ------------
-The source code for this project in Unity3D (C#) can be obtained via: https://www.assetstore.unity3d.com/en/#!/content/67819
+The source code for this project in Unity3D can be obtained via the asset store: https://www.assetstore.unity3d.com/en/#!/content/67819
 
 Description
 ------------
