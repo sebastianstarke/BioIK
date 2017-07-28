@@ -28,5 +28,5 @@ The table below shows the resulting performance values compared to related metho
 
 The research was published at several scientific conferences, including IEEE ROBIO 2016, IEEE CEC 2017 and IEEE IROS 2017, so I would be glad if you reference it in case of using it for academic work.
 
-For any questions you might have or bugs you find, feel free to contact me! I am happy to help and to improve the software.
+For any questions you might have or bugs you find, feel free to contact me! I am happy to help and to improve the software as part of my Ph.D. research at the University of Edinburgh.
 
