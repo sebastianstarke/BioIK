@@ -6,6 +6,10 @@ Download
 ------------
 The source code for this project in Unity3D can be obtained via the asset store: https://www.assetstore.unity3d.com/en/#!/content/67819
 
+Video
+------------
+https://www.youtube.com/watch?v=ik45v4WRZKI
+
 Description
 ------------
 This project was started as part of my M.Sc. thesis, and later continued as a research associate at the University of Hamburg.
