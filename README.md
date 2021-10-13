@@ -4,7 +4,7 @@ BioIK Asset for Unity3D
 
 Download
 ------------
-The source code for this project in Unity3D can be obtained via the asset store: https://www.assetstore.unity3d.com/en/#!/content/67819
+The source code for this project in Unity3D can be obtained via the asset store: https://assetstore.unity.com/packages/tools/animation/bio-ik-67819
 
 Video
 ------------
